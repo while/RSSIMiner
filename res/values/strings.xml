@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">RSSIMiner</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">RSSIMiner</string>
+    <string name="scan_button">Scan</string>
+    <string name="scan_button_scanning">Scanning&#8230;</string>
+    <string name="record_button">Record to file</string>
+    <string name="record_button_recording">Recording&#8230;</string>
+    <string name="clear_button">Clear</string>
+
+</resources>
